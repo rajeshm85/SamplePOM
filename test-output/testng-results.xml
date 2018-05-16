@@ -2,44 +2,44 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="10317" started-at="2018-05-16T02:09:53Z" finished-at="2018-05-16T02:10:03Z">
+  <suite name="Default suite" duration-ms="9020" started-at="2018-05-16T03:24:13Z" finished-at="2018-05-16T03:24:22Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="10317" started-at="2018-05-16T02:09:53Z" finished-at="2018-05-16T02:10:03Z">
+    <test name="Default test" duration-ms="9020" started-at="2018-05-16T03:24:13Z" finished-at="2018-05-16T03:24:22Z">
       <class name="com.raj.TestCases.LoginPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.raj.TestCases.LoginPageTest@d6da883]" name="setUp" is-config="true" duration-ms="2335" started-at="2018-05-16T02:09:53Z" finished-at="2018-05-16T02:09:55Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.raj.TestCases.LoginPageTest@d6da883]" name="setUp" is-config="true" duration-ms="1853" started-at="2018-05-16T03:24:13Z" finished-at="2018-05-16T03:24:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="validateLoginPageTitle()[pri:1, instance:com.raj.TestCases.LoginPageTest@d6da883]" name="validateLoginPageTitle" duration-ms="19" started-at="2018-05-16T02:09:55Z" finished-at="2018-05-16T02:09:55Z">
+        <test-method status="PASS" signature="validateLoginPageTitle()[pri:1, instance:com.raj.TestCases.LoginPageTest@d6da883]" name="validateLoginPageTitle" duration-ms="58" started-at="2018-05-16T03:24:15Z" finished-at="2018-05-16T03:24:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateLoginPageTitle -->
-        <test-method status="PASS" signature="close()[pri:0, instance:com.raj.TestCases.LoginPageTest@d6da883]" name="close" is-config="true" duration-ms="127" started-at="2018-05-16T02:09:55Z" finished-at="2018-05-16T02:09:55Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:com.raj.TestCases.LoginPageTest@d6da883]" name="close" is-config="true" duration-ms="131" started-at="2018-05-16T03:24:15Z" finished-at="2018-05-16T03:24:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.raj.TestCases.LoginPageTest@d6da883]" name="setUp" is-config="true" duration-ms="1125" started-at="2018-05-16T02:09:55Z" finished-at="2018-05-16T02:09:56Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.raj.TestCases.LoginPageTest@d6da883]" name="setUp" is-config="true" duration-ms="1197" started-at="2018-05-16T03:24:15Z" finished-at="2018-05-16T03:24:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyCrmLogoImgTest()[pri:2, instance:com.raj.TestCases.LoginPageTest@d6da883]" name="verifyCrmLogoImgTest" duration-ms="48" started-at="2018-05-16T02:09:56Z" finished-at="2018-05-16T02:09:56Z">
+        <test-method status="PASS" signature="verifyCrmLogoImgTest()[pri:2, instance:com.raj.TestCases.LoginPageTest@d6da883]" name="verifyCrmLogoImgTest" duration-ms="60" started-at="2018-05-16T03:24:16Z" finished-at="2018-05-16T03:24:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyCrmLogoImgTest -->
-        <test-method status="PASS" signature="close()[pri:0, instance:com.raj.TestCases.LoginPageTest@d6da883]" name="close" is-config="true" duration-ms="131" started-at="2018-05-16T02:09:56Z" finished-at="2018-05-16T02:09:57Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:com.raj.TestCases.LoginPageTest@d6da883]" name="close" is-config="true" duration-ms="126" started-at="2018-05-16T03:24:16Z" finished-at="2018-05-16T03:24:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.raj.TestCases.LoginPageTest@d6da883]" name="setUp" is-config="true" duration-ms="1246" started-at="2018-05-16T02:09:57Z" finished-at="2018-05-16T02:09:58Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.raj.TestCases.LoginPageTest@d6da883]" name="setUp" is-config="true" duration-ms="1266" started-at="2018-05-16T03:24:16Z" finished-at="2018-05-16T03:24:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyLoginTest()[pri:3, instance:com.raj.TestCases.LoginPageTest@d6da883]" name="verifyLoginTest" duration-ms="5090" started-at="2018-05-16T02:09:58Z" finished-at="2018-05-16T02:10:03Z">
+        <test-method status="PASS" signature="verifyLoginTest()[pri:3, instance:com.raj.TestCases.LoginPageTest@d6da883]" name="verifyLoginTest" duration-ms="4148" started-at="2018-05-16T03:24:18Z" finished-at="2018-05-16T03:24:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginTest -->
-        <test-method status="PASS" signature="close()[pri:0, instance:com.raj.TestCases.LoginPageTest@d6da883]" name="close" is-config="true" duration-ms="139" started-at="2018-05-16T02:10:03Z" finished-at="2018-05-16T02:10:03Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:com.raj.TestCases.LoginPageTest@d6da883]" name="close" is-config="true" duration-ms="161" started-at="2018-05-16T03:24:22Z" finished-at="2018-05-16T03:24:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
