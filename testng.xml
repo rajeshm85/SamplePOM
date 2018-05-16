@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  
+ <listeners>
+ 	<listener class-name="com.raj.ExtentReportListener.ExtentReporterNG" />
+ </listeners>
+  
+  
+  <test name="Test Cases 1">
+    <classes>
+      <class name="com.raj.TestCases.LoginPageTest"></class>
+    </classes>
+  </test> <!-- Test -->
+
+  <test name="Test Cases 2">
+    <classes>
+      <class name="com.raj.TestCases.HomePageTest"></class>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Test Cases 3">
+    <classes>
+      <class name="com.raj.TestCases.ContactsPageTest"></class>
+    </classes>
+  </test> <!-- Test -->
+
+
+</suite> <!-- Suite -->
